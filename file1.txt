@@ -5,6 +5,8 @@ git
 <dev1 end>
 
 <dev2 start>
+im a devloper 2
+i have updated this code
 
 <dev2 end>
 
