@@ -1,7 +1,7 @@
 git
 
 <dev1 start>
-im developer 1
+im developer 
 i have update following code 
 
 <dev1 end>
